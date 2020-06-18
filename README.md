@@ -3,7 +3,7 @@
 This repository aims to solve three basic challenges in OpenAI Gym with RL techniques.
 
 <div  align="center">
-<img src="./images/lunar_lander.gif" width="240" /> <img src="./images/mountain_car.gif" width="240" />  <img src="./images/pendulum.gif" width="240" /> 
+<img src="./assets/lunar_lander.gif" width="240" /> <img src="./assets/mountain_car.gif" width="240" />  <img src="./assets/pendulum.gif" width="240" /> 
 </div>
 
 ## Description
