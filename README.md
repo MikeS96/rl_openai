@@ -1,3 +1,4 @@
+
 # Reinforcement Learning with OpenAI Gym
 
 This repository aims to solve three basic challenges in OpenAI Gym with RL techniques.
@@ -37,3 +38,7 @@ To run the files, just use Jupyter Notebook and run the cells of the file you wa
     jupyter-notebook
 
 For further description and explanation, please check the Notebooks.
+
+The algorithms on this repository are based on the following [notes](https://github.com/MikeS96/rl_notes)
+
+
